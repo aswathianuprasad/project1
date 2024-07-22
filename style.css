@@ -486,7 +486,7 @@ p.para1{
      */
  @media(max-width:700px){
      .beginning{
-          font-size: 15px;
+          font-size: 25px;
      }
          
  }
