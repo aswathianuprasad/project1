@@ -484,7 +484,7 @@ p.para1{
     }
  }
      */
- @media(max-width:500px){
+ @media(max-width:700px){
      .beginning{
           font-size: 15px;
      }
